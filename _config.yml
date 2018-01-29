@@ -7,11 +7,11 @@ baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 
-city: 
-state: 
-zip_code: 
-country: United States of America
-phone: 
+city: Lebanon
+state: Missouri
+zip_code: 65536
+country: USA
+phone: Not listed. Contact for more info.
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
