@@ -2,8 +2,7 @@
 layout: post
 published: true
 title: A Beginning
-image: >-
-  https://lh4.googleusercontent.com/proxy/-D64ptg-hpsQY5KNfyPBQPUCBGJdDpHzYVPjhWBN3sY6Dy1pzyRDU7qZERNOHTUEU8B9BJpFQqRznDjPGRX8Tk3nFVc-U4w9a96cJIn2Mpt52dzChRQ2R7SCmT4XIrMnxJx-og=w1536-h773
+image: assets/images/keyboard-backlight.jpg
 categories:
   - appdevelopment
 description: I hope I can figure this out...
