@@ -3,7 +3,7 @@ title: 20 Time Coder
 subtitle: by Robbie Wadley
 email: robbiethewadley@gmail.com
 description: Coding is fun. And so is blogging, I guess.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: #re-add this and rename the repository to this in the future "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 
