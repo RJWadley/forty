@@ -29,18 +29,20 @@ What is a coding language (or programming language)?
 > A programming language is a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks.
 
 Another way to think about programming is telling someone to do things.
--If the light is green, go.
--When you reach the door, open it.
--Tell me what 2+2 is.
+*If the light is green, go.
+*When you reach the door, open it.
+*Tell me what 2+2 is.
 
 And a programming language is the way you tell them.
--Go to the bathroom
--Ir al baño
--トイレに行く
+*Go to the bathroom
+*Ir al baño
+*トイレに行く
 
 They mean the same thing. Understandable? Good.
 
 Here's the thing: IOS and Android use different languages. In order to make them do the same thing, I have to rewrite the app twice. I don't want to do that. At the moment my proposed solution is the following...
+
+## Solution
 
 Remember how earlier I said I had some experience with HTML, CSS, and Javascript? Turns out I might be able to write an app in HTML and package it into an app. Allow me to explain.
 
