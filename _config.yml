@@ -1,6 +1,6 @@
 # site settings
 title: 20 Time Coder
-subtitle: by Robert Wadley
+subtitle: by Robbie Wadley
 email: robbiethewadley@gmail.com
 description: Coding is fun. And so is blogging, I guess.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
