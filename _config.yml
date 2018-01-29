@@ -59,11 +59,6 @@ prose:
           element: "text"
           label: "Description"
           placeholder: "Enter Post Description"
-      - name: "headline"
-        field:
-          element: "text"
-          label: "beadline"
-          placeholder: "Enter Post Headline"
       - name: "modified"
         field:
           element: "text"
@@ -89,21 +84,6 @@ prose:
           element: "text"
           label: "Featured Image"
           placeholder: "somefile.jpg"
-      - name: "mathjax"
-        field:
-          element: "checkbox"
-          label: "MathJax"
-          value: false
-      - name: "featured"
-        field:
-          element: "checkbox"
-          label: "Featured?"
-          value: false
-      - name: "comments"
-        field:
-          element: "checkbox"
-          label: "Comments"
-          value: false
 
 sass:
   style: compressed
