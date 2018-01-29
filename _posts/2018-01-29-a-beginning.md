@@ -29,14 +29,14 @@ What is a coding language (or programming language)?
 > A programming language is a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks.
 
 Another way to think about programming is telling someone to do things.
-*If the light is green, go.
-*When you reach the door, open it.
-*Tell me what 2+2 is.
+* If the light is green, go.
+* When you reach the door, open it.
+* Tell me what 2+2 is.
 
 And a programming language is the way you tell them.
-*Go to the bathroom
-*Ir al baño
-*トイレに行く
+* Go to the bathroom
+* Ir al baño
+* トイレに行く
 
 They mean the same thing. Understandable? Good.
 
