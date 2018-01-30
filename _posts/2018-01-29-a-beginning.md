@@ -45,7 +45,7 @@ Here's the thing: IOS and Android use different languages. In order to make them
 
 Remember how earlier I said I had some experience with HTML, CSS, and Javascript? Turns out I might be able to write an app in HTML and package it into an app. Allow me to explain.
 
-I can write an app in HTML. Ever left-clicked and clicked "Inspect"? That stuff you see pop up is HTML. This website is built in HTML, as is pretty much the entire internet.
+I can write an app in HTML. Ever right-clicked and clicked "Inspect"? That stuff you see pop up is HTML. This website is built in HTML, as is pretty much the entire internet.
 
 After I build the app, I can export it to an application format and it will run inside a sort of "secret" web browser, all hidden behind the scenes.
 
